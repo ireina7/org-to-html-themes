@@ -1,0 +1,17 @@
+#+Title:  Org-mode to HTML themes
+#+Author: ireina7
+#+SETUPFILE: ./org/theme-blog.setup
+#+BEGIN_EXPORT html
+ <img src="./img/k-on-q.png" style="width: 65%;" alt="The end of the world">
+#+END_EXPORT
+Org-mode to HTML themes
+
+** About
+This is my personal org-html themes repo, to use this repo, simply include the following lines in your =org= file:
+#+BEGIN_SRC
+#+SETUPFILE: https://ireina7.github.io/org-to-html-themes/org/theme-blog.setup
+#+END_SRC
+or if you want to use local setup files to get better performance, download this repo and include the setup file.
+
+** Examples
+Go to [[ https://ireina7.github.io/org-to-html-theme/example.html][example page]] to see an blog example.
