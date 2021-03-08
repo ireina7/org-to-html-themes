@@ -13,9 +13,13 @@ This is my personal org-html themes repo, to use this repo, simply include the f
 #+END_SRC
 or if you want to use local setup files to get better performance, download this repo and include the setup file.
 
+- note: You have to put your =HTML= file in the same location where the =org= and =src= directory lies.
+
 ** Examples
-Go to [[https://ireina7.github.io/org-to-html-themes/example.html][example page]] to see an blog example.
+- The =README= [[https://ireina7.github.io/org-to-html-themes/README.html][file]] itself.
+- Go to [[https://ireina7.github.io/org-to-html-themes/example.html][example page]] to see an blog example.
 
 ** Options
 You can use =#+BEGIN_EXPORT .. #+END_EXPORT= to customize your own org template.
+
 For more details, please refer to =doc/=.
